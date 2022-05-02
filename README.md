@@ -1,5 +1,5 @@
 # COR2021a
-Supplementary material of manuscript "An Efficient and Fast Local Search Based Heuristic for Reel Management in a Production Line of Oil Extraction Pipes", published in Computers &amp; Operations Research, vol. XX, no. XX, pp. XX-XX, year 202X.
+Supplementary material of manuscript "An Efficient and Fast Local Search Based Heuristic for Reel Management in a Production Line of Oil Extraction Pipes", published in Computers &amp; Operations Research, vol. 137, January 2022, 105547, year 2022.
 
 The following files are available:
 - Support Information File.pdf : Support Information File containing additional information regarding the manuscript.
